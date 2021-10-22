@@ -1,0 +1,2 @@
+scipy==1.5.4
+matpolotlib==3.3.4
